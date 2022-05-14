@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'Mercado libre')
@@ -30,6 +28,8 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Google/input__q'), Keys.ch
 WebUI.click(findTestObject('Object Repository/Page_Mercado libre - Buscar con Google/h3_Mercado Libre Argentina - Envos Gratis en el da'))
 
 WebUI.click(findTestObject('Object Repository/Page_Mercado Libre Argentina - Envos Gratis_138d3c/button_Entendido'))
+
+WebUI.click(findTestObject('Page_Categoras y Secciones en Mercado Libre/a_Categoras'))
 
 WebUI.click(findTestObject('Object Repository/Page_Mercado Libre Argentina - Envos Gratis_138d3c/a_Moda'))
 
