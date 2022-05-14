@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Categorías')]</value>
+         <value>/html/body/header/div/div[2]/ul/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aa859803-9e9e-49ef-b775-c7dfe6e42591</webElementGuid>
+      <webElementGuid>538dae40-8245-4ce9-a386-aaff87bbe061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.mercadolibre.com.ar/categorias#nav-header</value>
-      <webElementGuid>23645fa9-dceb-4308-ba29-a31491b24746</webElementGuid>
+      <webElementGuid>d761c818-328f-4bf8-ac2d-3d828c89dc3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-menu-categories-link</value>
-      <webElementGuid>4a512837-24ef-42f1-9f36-45e14720f0bf</webElementGuid>
+      <webElementGuid>14e513cb-7306-471a-a340-704c66d4d4f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-js</name>
       <type>Main</type>
       <value>nav-menu-categories-trigger</value>
-      <webElementGuid>0e619505-73ac-482a-8960-6210ad900ca8</webElementGuid>
+      <webElementGuid>3450db42-5ca6-4760-8c34-97b256593c13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>5454cfb2-ae88-4d1b-aede-cce60ee5c654</webElementGuid>
+      <webElementGuid>49f720bc-c836-4223-99d2-8e737f24b22a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>f5108529-878a-4c1c-9b05-1a1f912ff3fe</webElementGuid>
+      <webElementGuid>28f150f3-95ab-41a1-909f-895be910cf2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Categorías</value>
-      <webElementGuid>e5a367bc-5221-43fa-825f-90dbd2903f2f</webElementGuid>
+      <webElementGuid>6b405559-5b9e-45f1-842f-10d8c250d465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/header[@class=&quot;nav-header nav-header-plus&quot;]/div[@class=&quot;nav-bounds nav-bounds-with-cart nav-bounds-with-cp&quot;]/div[@class=&quot;nav-menu&quot;]/ul[@class=&quot;nav-menu-list&quot;]/li[@class=&quot;nav-menu-item&quot;]/a[@class=&quot;nav-menu-categories-link&quot;]</value>
-      <webElementGuid>b5b8d82f-f64c-41f3-9677-2c8c6f7c92cc</webElementGuid>
+      <webElementGuid>81bc6e0a-f4af-4492-89a4-d28157616759</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Categorías')]</value>
-      <webElementGuid>d8ba2566-931d-4239-a4a6-2ec27f415e0b</webElementGuid>
+      <webElementGuid>44ec53b4-5ef3-471b-bbfb-3752008ea721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capital Federal'])[1]/following::a[1]</value>
-      <webElementGuid>d7947a37-9dac-4cba-9071-f9b04f5071ae</webElementGuid>
+      <webElementGuid>fb420fb0-2800-448a-b6e2-97662c58add3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enviar a'])[1]/following::a[1]</value>
-      <webElementGuid>5bb6dcf2-e1db-4820-a3be-fc36638a9fbd</webElementGuid>
+      <webElementGuid>518a68b9-37b1-4286-be6c-0bb13302c14f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ofertas'])[2]/preceding::a[1]</value>
-      <webElementGuid>511f6979-0f74-4d67-bdf0-acd0b3c4e146</webElementGuid>
+      <webElementGuid>198131ff-6024-4a5d-ba89-1836fdf8e2f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Historial'])[2]/preceding::a[2]</value>
-      <webElementGuid>96244b5c-9d5d-4020-8140-ae9d9cc670f4</webElementGuid>
+      <webElementGuid>86feaf82-2e4f-45f3-af4f-34de02ab6e19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.mercadolibre.com.ar/categorias#nav-header')]</value>
-      <webElementGuid>1706a80a-bdd8-47b4-9513-c08b00038310</webElementGuid>
+      <webElementGuid>af6c56cd-e194-4faf-9f70-1c2d3ea138d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[2]/a</value>
-      <webElementGuid>eadb7794-40e6-46a1-8b1c-6cd3f3f7f3d1</webElementGuid>
+      <webElementGuid>4b9cfd25-5736-4ba9-bec4-32a915313301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.mercadolibre.com.ar/categorias#nav-header' and (text() = 'Categorías' or . = 'Categorías')]</value>
-      <webElementGuid>1674d8a0-70c4-414f-a60b-dbe0eda7ea2b</webElementGuid>
+      <webElementGuid>29a91e27-87d8-42a1-a757-72d5cbdb4e73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
