@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Moda')]</value>
+         <value>/html/body/header/div/div[2]/ul/li[6]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b8048200-f89f-40d5-b2a5-1c385f946014</webElementGuid>
+      <webElementGuid>f91164b0-c988-40a0-972f-4c8073ac4fc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header</value>
-      <webElementGuid>1bbddce6-7409-4fc6-b62f-8a5870e4ae4e</webElementGuid>
+      <webElementGuid>ace5c1a4-7e52-4def-9625-65ba986d6d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-menu-item-link</value>
-      <webElementGuid>0d1d41f4-7612-4f48-b647-09c8b8cdfec8</webElementGuid>
+      <webElementGuid>bea03dcf-fecf-440a-83b4-b71bc1593b30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>7e8d1c40-99a2-4728-ada2-371c8c3d4094</webElementGuid>
+      <webElementGuid>72bc1eff-5622-456a-9f4a-61201eff11cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>b0ea9649-1f83-48bd-b831-d93b1c9cd8a4</webElementGuid>
+      <webElementGuid>7ca89ce5-a23e-4d4e-9c00-04a110fdd9d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Moda</value>
-      <webElementGuid>394cbb73-1424-4523-8bf7-0455ecbcc3d2</webElementGuid>
+      <webElementGuid>51ff40e3-f90a-45c0-871d-cf48a8e5dac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/header[@class=&quot;nav-header nav-header-plus&quot;]/div[@class=&quot;nav-bounds nav-bounds-with-cart nav-bounds-with-cp&quot;]/div[@class=&quot;nav-menu&quot;]/ul[@class=&quot;nav-menu-list&quot;]/li[@class=&quot;nav-menu-item&quot;]/a[@class=&quot;nav-menu-item-link&quot;]</value>
-      <webElementGuid>edbc733c-72ca-4032-a940-5e4a452cf8b4</webElementGuid>
+      <webElementGuid>02e7dc9d-79f5-4620-b877-74da6a82aba3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Moda')]</value>
-      <webElementGuid>61ee5b3e-1c67-4eb5-ac7f-a73c3866ffb6</webElementGuid>
+      <webElementGuid>b18949c6-6df6-44b4-99f5-96f5632f9653</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supermercado'])[2]/following::a[1]</value>
-      <webElementGuid>f747bc97-de67-47b5-bfb6-7bf6309dd3f0</webElementGuid>
+      <webElementGuid>ffcdb112-c406-48e9-947c-8f0126bd7ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Historial'])[2]/following::a[2]</value>
-      <webElementGuid>e5deff9e-e412-47f4-992b-6cb3ad00e508</webElementGuid>
+      <webElementGuid>d0fe7248-ee6d-4856-a7ef-ac0d6fa93ce9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vender'])[2]/preceding::a[1]</value>
-      <webElementGuid>02cde310-66c5-448e-909b-f7c1443e0f95</webElementGuid>
+      <webElementGuid>657a51eb-0479-4e3d-9d61-dd0f3b8698b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayuda'])[2]/preceding::a[2]</value>
-      <webElementGuid>89ad6ec7-d159-48e0-a7eb-a2c0f3cd1dbd</webElementGuid>
+      <webElementGuid>6e3a29f2-2226-4d62-ae4d-a6ce4d3397b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header')]</value>
-      <webElementGuid>b84b9b33-319f-4569-a9e0-955a5ef8c3ca</webElementGuid>
+      <webElementGuid>17b78c98-9679-4dff-ad32-9a9df7e7242f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>936b3dc4-975e-465d-a6d4-9bf60dbe7b38</webElementGuid>
+      <webElementGuid>45f443fb-ed69-4277-b1e1-d90ffa7f3fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.mercadolibre.com.ar/c/ropa-y-accesorios#nav-header' and (text() = 'Moda' or . = 'Moda')]</value>
-      <webElementGuid>b533b43b-a92b-4085-a497-3a45ff9cb263</webElementGuid>
+      <webElementGuid>e3753104-da23-48b7-bcfa-c019cf4ee632</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
