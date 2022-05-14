@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;root-app&quot;]/div/div[5]/section/section/div[2]/div/div/div/div[2]/div/div/a</value>
+         <value>//main[@id='root-app']/div/div[5]/section/section/div[2]/div/div/div/div[2]/div/div/a/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>fb131422-dfb0-48e8-a413-baecaacfb527</webElementGuid>
+      <webElementGuid>1c0eb975-36fb-44b9-bdba-e1005ce27438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>96082312-220d-4f81-ab6d-a4931f05b366</webElementGuid>
+      <webElementGuid>db8d3148-e905-4281-a2ba-d6ca631f2e9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://http2.mlstatic.com/D_Q_NP_738156-MLA49581086064_042022-P.webp</value>
-      <webElementGuid>13f6e6a3-7ab1-48ff-a5f7-f1220dee351f</webElementGuid>
+      <webElementGuid>ed0256bc-a49c-4ad2-adcd-b786183d197f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dynamic-carousel__img</value>
-      <webElementGuid>a4f43451-488e-4ded-bf6f-0a177bf5bd62</webElementGuid>
+      <webElementGuid>2dcecb6f-0395-4f6a-bc98-f52219fdd1c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Campera Mujer Boucle Courtney System </value>
-      <webElementGuid>240eb2c3-1ed6-40f7-af94-f2b2d861304e</webElementGuid>
+      <webElementGuid>ab11f30c-8b6e-458d-9ff1-774952c5dc8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <type>Main</type>
       <value>https://http2.mlstatic.com/D_Q_NP_738156-MLA49581086064_042022-P.webp 1x,
       https://http2.mlstatic.com/D_Q_NP_2X_738156-MLA49581086064_042022-P.webp 2x,</value>
-      <webElementGuid>53840405-f38b-4b4c-a0d4-b7d469036e9d</webElementGuid>
+      <webElementGuid>e557d21f-73ff-4057-adfe-bb8b20cd833f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root-app&quot;)/div[@class=&quot;light hub&quot;]/div[5]/section[@class=&quot;dynamic__carousel&quot;]/section[@class=&quot;dynamic-carousel-normal-desktop&quot;]/div[@class=&quot;carousel-container&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[@class=&quot;andes-card andes-card--flat andes-card--default andes-card--padding-default&quot;]/div[@class=&quot;dynamic-carousel__item-container&quot;]/a[1]/div[@class=&quot;dynamic-carousel__link-container&quot;]/img[@class=&quot;dynamic-carousel__img&quot;]</value>
-      <webElementGuid>45ecd5d2-5cd9-487e-b63b-d97789af1461</webElementGuid>
+      <webElementGuid>f552ff46-bcb0-44db-b672-0aa6fe5671c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='root-app']/div/div[5]/section/section/div[2]/div/div/div/div[2]/div/div/a/div/img</value>
-      <webElementGuid>c9781e4d-35a3-457e-8637-5dff9b1ce911</webElementGuid>
+      <webElementGuid>1ada2fc5-a651-4e7c-9641-7f486506d7df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Campera Mujer Boucle Courtney System ']</value>
-      <webElementGuid>72aaa161-2307-4fe2-868c-8f92f425fde3</webElementGuid>
+      <webElementGuid>1dbd1559-350b-4b09-b84c-066056f2974f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/a/div/img</value>
-      <webElementGuid>31d58ee6-6eef-4fe8-943f-6c01b302d59c</webElementGuid>
+      <webElementGuid>693826e3-00e0-4c64-bef8-6cfa90ca9e36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://http2.mlstatic.com/D_Q_NP_738156-MLA49581086064_042022-P.webp' and @alt = 'Campera Mujer Boucle Courtney System ']</value>
-      <webElementGuid>fddbe1b8-13fd-4205-b5d6-2cd5467bbd6e</webElementGuid>
+      <webElementGuid>7f38a178-3482-4b98-be66-c97b4f5041aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

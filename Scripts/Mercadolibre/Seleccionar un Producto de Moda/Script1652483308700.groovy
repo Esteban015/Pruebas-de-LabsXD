@@ -29,6 +29,8 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Google/input__q'), Keys.ch
 
 WebUI.click(findTestObject('Object Repository/Page_Mercado libre - Buscar con Google/h3_Mercado Libre Argentina - Envos Gratis en el da'))
 
+WebUI.click(findTestObject('Object Repository/Page_Mercado Libre Argentina - Envos Gratis_138d3c/button_Entendido'))
+
 WebUI.click(findTestObject('Object Repository/Page_Mercado Libre Argentina - Envos Gratis_138d3c/a_Moda'))
 
 WebUI.click(findTestObject('Object Repository/Page_Ropa y Accesorios en Mercado Libre Argentina/img_Zapatilla Addict De Pu Mujer 47 Street__2c91a9'))

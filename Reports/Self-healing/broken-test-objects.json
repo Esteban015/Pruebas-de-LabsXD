@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mercado libre - Buscar con Google/h3_Mercado Libre Argentina - Envos Gratis en el da",
+      "brokenLocator": "//div[@id\u003d\u0027rso\u0027]/div/div/div/div/div/div/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Resultados de búsqueda\u0027])[1]/following::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mercado libre - Buscar con Google/h3_Mercado Libre Argentina - Envos Gratis en el da_neighbor.png"
+    }
+  ]
 }
