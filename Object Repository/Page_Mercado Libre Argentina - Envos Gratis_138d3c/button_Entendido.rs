@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e56cd6ad-f979-4c6a-9ff5-e7d21b3edd90</webElementGuid>
+      <webElementGuid>930a9b9d-1a23-4c1b-bea5-76ba01cdd4cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>727b6085-b153-45b0-9480-0a24b6e138a8</webElementGuid>
+      <webElementGuid>4722aabc-3815-4891-b5cb-317e17c3a2fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>action:understood-button</value>
-      <webElementGuid>57e1e891-b516-476b-8337-af10d63e88cf</webElementGuid>
+      <webElementGuid>52e86f10-4801-47a6-ae81-225e03f12065</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cookie-consent-banner-opt-out__action cookie-consent-banner-opt-out__action--primary cookie-consent-banner-opt-out__action--key-accept</value>
-      <webElementGuid>addfa6e9-8855-4ae6-ac29-56816680b7ba</webElementGuid>
+      <webElementGuid>ab0c9477-31f9-4987-b78c-4acf1b1a6f79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Entendido</value>
-      <webElementGuid>02832856-44db-4741-8179-fcfe95fd4d34</webElementGuid>
+      <webElementGuid>16a32415-79fc-4801-94a6-a913112d98f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[2]/div[@class=&quot;cookie-consent-banner-opt-out&quot;]/div[@class=&quot;cookie-consent-banner-opt-out__actions&quot;]/button[@class=&quot;cookie-consent-banner-opt-out__action cookie-consent-banner-opt-out__action--primary cookie-consent-banner-opt-out__action--key-accept&quot;]</value>
-      <webElementGuid>4e65970a-f905-45e8-9acd-95591eb092bb</webElementGuid>
+      <webElementGuid>80611078-16fb-4dd5-b037-a923d515fcd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>15465b8f-a79e-45ed-9309-8183fa297b34</webElementGuid>
+      <webElementGuid>ce501b1b-c9fa-4913-acd7-82eb181c9cd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='personalizar tu experiencia'])[1]/following::button[1]</value>
-      <webElementGuid>540adf22-4bf5-482f-803f-7d4c38f7a8ed</webElementGuid>
+      <webElementGuid>2d8ec493-5763-49c5-b624-ce8a3a611aa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Este sitio usa cookies'])[1]/following::button[1]</value>
-      <webElementGuid>6f080270-11d4-42d8-b023-b53b240249e4</webElementGuid>
+      <webElementGuid>94a7b6e9-3053-4386-8124-5f18a097f71e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurar cookies'])[1]/preceding::button[1]</value>
-      <webElementGuid>6045b2f4-442b-4bf2-ad21-02b080ff9b8a</webElementGuid>
+      <webElementGuid>53fee97f-e278-459a-8785-3924fdb88377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Listo! Guardamos tus preferencias.'])[1]/preceding::button[2]</value>
-      <webElementGuid>4a038191-b265-4de1-b1fb-beeddb66790d</webElementGuid>
+      <webElementGuid>a8c289ea-ebf8-461b-9b0e-9634d1588ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Entendido']/parent::*</value>
-      <webElementGuid>aecd4fb8-1bc1-498a-a03a-2559c7f285a4</webElementGuid>
+      <webElementGuid>e3163faf-3f54-4f40-86d2-1178bb2b101c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>784f18e2-8861-4dbd-960a-4cf3a7577794</webElementGuid>
+      <webElementGuid>7b2290f8-217e-4504-a3be-9ff9f4cf2b2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Entendido' or . = 'Entendido')]</value>
-      <webElementGuid>2c526510-1753-47e3-95e2-8981e7554b36</webElementGuid>
+      <webElementGuid>3581a44d-4e37-4f98-8a5a-cf317b272e53</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

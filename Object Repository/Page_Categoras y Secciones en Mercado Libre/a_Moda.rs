@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Moda</name>
    <tag></tag>
-   <elementGuidId>aca9d6e4-4009-40fa-b631-0983d4f5a951</elementGuidId>
+   <elementGuidId>06e9741a-5c3d-444b-8c43-75cb7189120f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>654be5fb-d55b-43f9-8211-518a7b8f2bf5</webElementGuid>
+      <webElementGuid>b272029c-a08f-47cf-928c-ccbf0016c1ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.mercadolibre.com.ar/c/ropa-y-accesorios#menu=categories</value>
-      <webElementGuid>c3c8150f-f4db-4a5c-8df0-ec955e0f155f</webElementGuid>
+      <webElementGuid>ac7dd04d-a019-4546-bd6b-6ba9027cfeee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Moda</value>
-      <webElementGuid>a4c5c669-5bc6-48b5-a617-904b5188b879</webElementGuid>
+      <webElementGuid>24215a6f-b437-42ff-8d1d-9c7164e29597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/header[@class=&quot;nav-header nav-header-plus&quot;]/div[@class=&quot;nav-bounds nav-bounds-with-cart nav-bounds-with-cp&quot;]/div[@class=&quot;nav-menu&quot;]/ul[@class=&quot;nav-menu-list&quot;]/li[@class=&quot;nav-menu-item nav-menu-chevron-down&quot;]/div[@class=&quot;nav-categs&quot;]/ul[@class=&quot;nav-categs-departments&quot;]/li[@class=&quot;nav-categs-departments__list nav-categs-departments__list--static&quot;]/a[1]</value>
-      <webElementGuid>d8aed6fa-ee92-456a-9424-f51436bb5b95</webElementGuid>
+      <webElementGuid>5a066c87-c8f7-4461-8c6b-b09eb22ff918</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Moda')]</value>
-      <webElementGuid>a4ebdb6d-cc6d-4563-9fef-56a784b28483</webElementGuid>
+      <webElementGuid>a127924d-9a9f-46b7-a6e8-43d134703bbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accesorios para Vehículos'])[1]/following::a[1]</value>
-      <webElementGuid>fa681e24-9ef7-4ba0-93d1-4e3714a99443</webElementGuid>
+      <webElementGuid>0f0892ce-ed75-4f52-bbd4-2c69c05d0d25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deportes y Fitness'])[1]/following::a[2]</value>
-      <webElementGuid>ec2aa550-75f9-4d69-9af0-f5610f8ca3ef</webElementGuid>
+      <webElementGuid>1d1048e3-8235-4344-8d10-ee6a35c48829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Juegos y Juguetes'])[1]/preceding::a[1]</value>
-      <webElementGuid>8b1774d4-f5f4-47c3-848d-08062e74a451</webElementGuid>
+      <webElementGuid>91fbd5b9-bf54-45f9-8f10-4dee1daf5972</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bebés'])[1]/preceding::a[2]</value>
-      <webElementGuid>91bd88e1-b4e0-4c6a-a998-d1d2dddaf372</webElementGuid>
+      <webElementGuid>2424f6ee-65a5-48c8-8ee4-17acd4a712c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.mercadolibre.com.ar/c/ropa-y-accesorios#menu=categories')]</value>
-      <webElementGuid>3be5b29e-945a-459d-a726-1527bd8e0e07</webElementGuid>
+      <webElementGuid>6c7172e9-25c1-4ef5-8a40-36c630aab97e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]/a</value>
-      <webElementGuid>76164cc7-143f-4779-a7e9-d924846ed84d</webElementGuid>
+      <webElementGuid>2f103520-37fd-4811-b956-8e8fd70e6b06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.mercadolibre.com.ar/c/ropa-y-accesorios#menu=categories' and (text() = 'Moda' or . = 'Moda')]</value>
-      <webElementGuid>86e1d19a-7140-4e72-b4b3-5fdab51502f3</webElementGuid>
+      <webElementGuid>d268fe27-0f93-48de-a56a-e7a900b38e8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
